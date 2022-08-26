@@ -54,4 +54,4 @@ git push -f origin myBranch
 to let Git force the push and overwrite the history of the branch.
 PAY ATTENTION: this can be dangerous if myBranch was already fetched by others in their own repo.
 
-Need to clean up these notes
+
